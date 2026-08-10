@@ -9,9 +9,9 @@ Created user accounts
 - Omar Rob
 - Quin Ryley
 
-![Creating Users](./screenshots/sc1)
+![Creating Users](./screenshots/sc1.png)
 
-![Creating Users](./screenshots/sc2)
+![Creating Users](./screenshots/sc2.png)
 
 
 ## Creating Groups
